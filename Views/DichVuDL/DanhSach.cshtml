@@ -1,0 +1,53 @@
+﻿@model IEnumerable<lamlai_web_dulich.Models.DichVu>
+
+@{
+    ViewBag.Title = "DanhSach";
+    Layout = "~/Views/Shared/_layoutHome.cshtml";
+}
+
+@foreach (var item in Model)
+{
+    <div class="container">
+        <div class="row">
+            <div class="rating_r rating_r_4 hotel_rating">
+                <i></i>
+                <i></i>
+                <i></i>
+                <i></i>
+                <i></i>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+
+            <h1> @item.ID.  @item.TenDichVu</h1><br />
+            <div class="blog_post">
+                <div class="blog_post_image">
+                    <div>
+                        <img style="height:500px; width:900px; text-align:center" src="@item.HinhAnh" alt="">
+                    </div>
+                    <div class="blog_post_date d-flex flex-column align-items-center justify-content-center">
+                        <h8 style="text-align:center">@item.HoatDong</h8>
+                    </div>
+                </div>
+
+                <div class="blog_post_title">
+                    <h4>Nội dung tóm tắt</h4>
+                    <div class="blog_post_text">
+                        <p>@item.NoiDung</p>
+                    </div>
+                    <div>
+                        <a href="@item.LinkSeo">Đường dẫn dịch vụ chi tiết:</a>
+                    </div>
+
+                    <!-- Blog Post -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+}

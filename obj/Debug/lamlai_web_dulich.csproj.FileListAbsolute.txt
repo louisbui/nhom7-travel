@@ -1,0 +1,228 @@
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll.config
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.pdb
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe.config
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.rsp
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe.config
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.rsp
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.AppContext.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Console.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Http.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe.config
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.rsp
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.Razor.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Webpages.Razor.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.AssemblyReference.cache
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CoreCompileInputs.cache
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CopyComplete
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.dll
+C:\Users\NGOCBX\Desktop\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.pdb
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll.config
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.pdb
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe.config
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.rsp
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe.config
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.rsp
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.AppContext.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Console.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Http.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe.config
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.rsp
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.AssemblyReference.cache
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CoreCompileInputs.cache
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CopyComplete
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.dll
+C:\Users\NGOCBX\Desktop\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.pdb
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll.config
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\lamlai_web_dulich.pdb
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.exe.config
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csc.rsp
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.exe.config
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\csi.rsp
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.AppContext.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Console.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Http.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.exe.config
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\vbc.rsp
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\EntityFramework.SqlServer.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Helpers.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Razor.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\System.Web.Mvc.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.AssemblyReference.cache
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CoreCompileInputs.cache
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.csproj.CopyComplete
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.dll
+C:\Users\NGOCBX\3D Objects\OneDrive_2022-12-25\du phong\WEB_DULICH-main-1\lamlai_web_dulich\obj\Debug\lamlai_web_dulich.pdb

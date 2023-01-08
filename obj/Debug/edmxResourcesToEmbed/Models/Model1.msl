@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DuLichDBModelStoreContainer" CdmEntityContainer="DuLichDBEntities">
+    <EntitySetMapping Name="LoaiTours">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.LoaiTour)">
+        <MappingFragment StoreEntitySet="LoaiTours">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MucGias">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.MucGia)">
+        <MappingFragment StoreEntitySet="MucGias">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TinhThanhs">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.TinhThanh)">
+        <MappingFragment StoreEntitySet="TinhThanhs">
+          <ScalarProperty Name="ID_Tinh" ColumnName="ID_Tinh" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TourDuLiches">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.TourDuLich)">
+        <MappingFragment StoreEntitySet="TourDuLiches">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TieuDe" ColumnName="TieuDe" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="SoNgayDiTour" ColumnName="SoNgayDiTour" />
+          <ScalarProperty Name="LichDinhKy" ColumnName="LichDinhKy" />
+          <ScalarProperty Name="DiaDiem" ColumnName="DiaDiem" />
+          <ScalarProperty Name="SoNguoiToiDa" ColumnName="SoNguoiToiDa" />
+          <ScalarProperty Name="GiaTour" ColumnName="GiaTour" />
+          <ScalarProperty Name="BaiViet" ColumnName="BaiViet" />
+          <ScalarProperty Name="idTinh" ColumnName="idTinh" />
+          <ScalarProperty Name="idLoaiTour" ColumnName="idLoaiTour" />
+          <ScalarProperty Name="id_MucGia" ColumnName="id_MucGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoans">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.TaiKhoan)">
+        <MappingFragment StoreEntitySet="TaiKhoans">
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TenHienThi" ColumnName="TenHienThi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AlbumAnhs">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.AlbumAnh)">
+        <MappingFragment StoreEntitySet="AlbumAnhs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenAlbum" ColumnName="TenAlbum" />
+          <ScalarProperty Name="NguoiDang" ColumnName="NguoiDang" />
+          <ScalarProperty Name="ThoiGian" ColumnName="ThoiGian" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CamNangDuLiches">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.CamNangDuLich)">
+        <MappingFragment StoreEntitySet="CamNangDuLiches">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TieuDe" ColumnName="TieuDe" />
+          <ScalarProperty Name="TomTat" ColumnName="TomTat" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="NgayViet" ColumnName="NgayViet" />
+          <ScalarProperty Name="HienTrangChu" ColumnName="HienTrangChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DichVus">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.DichVu)">
+        <MappingFragment StoreEntitySet="DichVus">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenDichVu" ColumnName="TenDichVu" />
+          <ScalarProperty Name="LinkSeo" ColumnName="LinkSeo" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="HoatDong" ColumnName="HoatDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HinhAnhs">
+      <EntityTypeMapping TypeName="IsTypeOf(DuLichDBModel.HinhAnh)">
+        <MappingFragment StoreEntitySet="HinhAnhs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="idAlbum" ColumnName="idAlbum" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="TieuDe" ColumnName="TieuDe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

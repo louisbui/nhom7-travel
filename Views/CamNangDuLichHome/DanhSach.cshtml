@@ -1,0 +1,57 @@
+﻿@model IEnumerable<lamlai_web_dulich.Models.CamNangDuLich>
+
+@{
+    ViewBag.Title = "DanhSach";
+    Layout = "~/Views/Shared/_layoutHome.cshtml";
+}
+
+
+@foreach (var item in Model)
+{
+    var url = "/chi-tiet-camnang/" + item.ID;
+  <div class="container">
+      <div class="row">
+
+          <!-- Blog Content -->
+
+          <div class="col-lg-8">
+
+              <div class="blog_post_container">
+                  <div class="rating_r rating_r_4 hotel_rating">
+                      <i></i>
+                      <i></i>
+                      <i></i>
+                      <i></i>
+                      <i></i><br />
+                  </div>
+                  <!-- Blog Post -->
+                  <h1> @item.ID.  @item.TieuDe</h1><br />
+                  <div class="blog_post">
+                      <div class="blog_post_image">
+                          <div>
+                              <img style="height:500px; width:900px; text-align:center" src="@item.HinhAnh" alt="">
+                          </div>
+                          <div class="blog_post_date d-flex flex-column align-items-center justify-content-center">
+                              <h8 style="text-align:center">@item.NgayViet</h8>
+                          </div>
+                      </div>
+
+                      <div class="blog_post_title">
+                          <h4>Nội dung tóm tắt</h4>
+                          <div class="blog_post_text">
+                              <p>@item.TomTat</p>
+                          </div>
+
+                          <div class="offers_link">
+                              <div class="offers_link"><a href="@url">read more</a></div>
+                          </div>
+                      </div>
+
+                          <!-- Blog Post -->
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+}
